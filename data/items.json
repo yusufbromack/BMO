@@ -1,0 +1,1337 @@
+[
+    {
+        "name": "Amanitia Mushroom",
+        "id": 5419,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Ancient Mushroom",
+        "id": 5418,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Arrow Mushroom",
+        "id": 5408,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Ash Sap",
+        "id": 5001,
+        "group": "Saps"
+    },
+    {
+        "name": "Worm Blood",
+        "id": 6209,
+        "group": "Blood 5"
+    },
+    {
+        "name": "Lizard Blood",
+        "id": 6208,
+        "group": "Blood 5"
+    },
+    {
+        "name": "Bat Blood",
+        "id": 6219,
+        "group": "Blood 5"
+    },
+    {
+        "name": "Kuku Bird Blood",
+        "id": 6217,
+        "group": "Blood 5"
+    },
+    {
+        "name": "Cobra Blood",
+        "id": 6222,
+        "group": "Blood 5"
+    },
+    {
+        "name": "Troll Blood",
+        "id": 6220,
+        "group": "Blood 4"
+    },
+    {
+        "name": "Bear Blood",
+        "id": 6213,
+        "group": "Blood 4"
+    },
+    {
+        "name": "Ogre Blood",
+        "id": 6221,
+        "group": "Blood 4"
+    },
+    {
+        "name": "Birch Sap",
+        "id": 5004,
+        "group": "Saps"
+    },
+    {
+        "name": "Black Stone Powder",
+        "id": 4901,
+        "group": ""
+    },
+    {
+        "name": "Bloody Tree Knot",
+        "id": 5005,
+        "group": ""
+    },
+    {
+        "name": "Blue Umbrella Mushroom",
+        "id": 5516,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Blue Whale Oil",
+        "id": 9727,
+        "group": ""
+    },
+    {
+        "name": "Blue Whale Tendon",
+        "id": 9729,
+        "group": ""
+    },
+    {
+        "name": "Bluffer Mushroom",
+        "id": 5417,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Cedar Sap",
+        "id": 5010,
+        "group": "Saps"
+    },
+    {
+        "name": "Clear Liquid Reagent",
+        "id": 5301,
+        "group": ""
+    },
+    {
+        "name": "Cloud Mushroom",
+        "id": 5410,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Clown's Blood",
+        "id": 6353,
+        "group": "Tier 2 Blood"
+    },
+    {
+        "name": "Dead Tree Essence",
+        "id": 5019,
+        "group": ""
+    },
+    {
+        "name": "Dry Mane Grass",
+        "id": 5404,
+        "group": "Herbs"
+    },
+    {
+        "name": "Dwarf Mushroom",
+        "id": 5409,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Emperor Mushroom",
+        "id": 5413,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Everlasting Herb",
+        "id": 5406,
+        "group": "Herbs"
+    },
+    {
+        "name": "Fir Sap",
+        "id": 5009,
+        "group": "Saps"
+    },
+    {
+        "name": "Fire Flake Flower",
+        "id": 5403,
+        "group": "Herbs"
+    },
+    {
+        "name": "Fog Mushroom",
+        "id": 5415,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Fortune Teller Mushroom",
+        "id": 5407,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Weasel Blood",
+        "id": 6212,
+        "group": "Blood 3"
+    },
+    {
+        "name": "Fox Blood",
+        "id": 6203,
+        "group": "Blood 3"
+    },
+    {
+        "name": "Raccoon Blood",
+        "id": 6210,
+        "group": "Blood 3"
+    },
+    {
+        "name": "Fruit of Abundance",
+        "id": 5203,
+        "group": "Alchemy Fruit"
+    },
+    {
+        "name": "Fruit of Crimson Flame",
+        "id": 5201,
+        "group": "Alchemy Fruit"
+    },
+    {
+        "name": "Fruit of Destruction",
+        "id": 5215,
+        "group": "Alchemy Fruit"
+    },
+    {
+        "name": "Fruit of Enchantment",
+        "id": 5209,
+        "group": "Alchemy Fruit"
+    },
+    {
+        "name": "Fruit of Magic Power",
+        "id": 5211,
+        "group": "Alchemy Fruit"
+    },
+    {
+        "name": "Fruit of Nature",
+        "id": 5205,
+        "group": "Alchemy Fruit"
+    },
+    {
+        "name": "Fruit of Perfection",
+        "id": 5213,
+        "group": "Alchemy Fruit"
+    },
+    {
+        "name": "Fruit of the Sun",
+        "id": 5207,
+        "group": "Alchemy Fruit"
+    },
+    {
+        "name": "Fugitive Khalk's Skin",
+        "id": 9736,
+        "group": ""
+    },
+    {
+        "name": "Ghost Mushroom",
+        "id": 5414,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Griffon Claw",
+        "id": 9741,
+        "group": ""
+    },
+    {
+        "name": "Herbal Gunpowder",
+        "id": 5604,
+        "group": ""
+    },
+    {
+        "name": "Hump Mushroom",
+        "id": 5416,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Insectivore Plant Powder",
+        "id": 5601,
+        "group": ""
+    },
+    {
+        "name": "Insectivore Plant Sap",
+        "id": 5602,
+        "group": ""
+    },
+    {
+        "name": "Legendary Beast's Blood",
+        "id": 6351,
+        "group": "Tier 2 Blood"
+    },
+    {
+        "name": "Loopy Tree Sap",
+        "id": 5018,
+        "group": "Saps"
+    },
+    {
+        "name": "Maple Sap",
+        "id": 5002,
+        "group": "Saps"
+    },
+    {
+        "name": "Monk's Branch",
+        "id": 5007,
+        "group": ""
+    },
+    {
+        "name": "Moss Tree Sap",
+        "id": 5017,
+        "group": "Saps"
+    },
+    {
+        "name": "Oil of Corruption",
+        "id": 6604,
+        "group": "Oils"
+    },
+    {
+        "name": "Oil of Fortitude",
+        "id": 6603,
+        "group": "Oils"
+    },
+    {
+        "name": "Oil of Regeneration",
+        "id": 6601,
+        "group": "Oils"
+    },
+    {
+        "name": "Oil of Storms",
+        "id": 6602,
+        "group": "Oils"
+    },
+    {
+        "name": "Oil of the Abyss",
+        "id": 6606,
+        "group": "Oils"
+    },
+    {
+        "name": "Oil of Tranquility",
+        "id": 6605,
+        "group": "Oils"
+    },
+    {
+        "name": "Old Tree Bark",
+        "id": 5008,
+        "group": ""
+    },
+    {
+        "name": "Pine Sap",
+        "id": 5003,
+        "group": "Saps"
+    },
+    {
+        "name": "Powder of Crevice",
+        "id": 4803,
+        "group": "Powder"
+    },
+    {
+        "name": "Powder of Darkness",
+        "id": 4801,
+        "group": "Powder"
+    },
+    {
+        "name": "Powder of Earth",
+        "id": 4804,
+        "group": "Powder"
+    },
+    {
+        "name": "Powder of Flame",
+        "id": 4802,
+        "group": "Powder"
+    },
+    {
+        "name": "Powder of Time",
+        "id": 4805,
+        "group": "Powder"
+    },
+    {
+        "name": "Pure Powder Reagen",
+        "id": 5302,
+        "group": ""
+    },
+    {
+        "name": "Purified Water",
+        "id": 6656,
+        "group": ""
+    },
+    {
+        "name": "Red Tree Lump",
+        "id": 5011,
+        "group": ""
+    },
+    {
+        "name": "Rough Stone",
+        "id": 4006,
+        "group": ""
+    },
+    {
+        "name": "Silk Honey Grass",
+        "id": 5405,
+        "group": "Herbs"
+    },
+    {
+        "name": "Silver Azalea",
+        "id": 5402,
+        "group": "Herbs"
+    },
+    {
+        "name": "Sinner's Blood",
+        "id": 6354,
+        "group": "Tier 2 Blood"
+    },
+    {
+        "name": "Sky Blue Flower",
+        "id": 5525,
+        "group": "Herbs"
+    },
+    {
+        "name": "Sky Mushroom",
+        "id": 5411,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Spirit's Leaf",
+        "id": 5006,
+        "group": ""
+    },
+    {
+        "name": "Sticky Liquid",
+        "id": 44084,
+        "group": ""
+    },
+    {
+        "name": "Sunrise Herb",
+        "id": 5401,
+        "group": "Herbs"
+    },
+    {
+        "name": "Thuja Sap",
+        "id": 5020,
+        "group": "Saps"
+    },
+    {
+        "name": "Tiger Mushroom",
+        "id": 5412,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Trace of Ascension",
+        "id": 5955,
+        "group": "Traces"
+    },
+    {
+        "name": "Trace of Battle",
+        "id": 5958,
+        "group": "Traces"
+    },
+    {
+        "name": "Trace of Chaos",
+        "id": 5951,
+        "group": "Traces"
+    },
+    {
+        "name": "Trace of Death",
+        "id": 5962,
+        "group": "Traces"
+    },
+    {
+        "name": "Trace of Forest",
+        "id": 5960,
+        "group": "Traces"
+    },
+    {
+        "name": "Trace of Hunting",
+        "id": 5959,
+        "group": "Traces"
+    },
+    {
+        "name": "Trace of Memory",
+        "id": 5963,
+        "group": "Traces"
+    },
+    {
+        "name": "Trace of Origin",
+        "id": 5957,
+        "group": "Traces"
+    },
+    {
+        "name": "Trace of Savagery",
+        "id": 5956,
+        "group": "Traces"
+    },
+    {
+        "name": "Trace of the Earth",
+        "id": 5954,
+        "group": "Traces"
+    },
+    {
+        "name": "Trace of Violence",
+        "id": 5961,
+        "group": "Traces"
+    },
+    {
+        "name": "Truffle Mushroom",
+        "id": 5420,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "Tyrant's Blood",
+        "id": 6352,
+        "group": "Tier 2 Blood"
+    },
+    {
+        "name": "Violet Flower",
+        "id": 5526,
+        "group": "Herbs"
+    },
+    {
+        "name": "Volcanic Umbrella Mushroom",
+        "id": 5517,
+        "group": "Mushrooms"
+    },
+    {
+        "name": "White Cedar Sap",
+        "id": 5012,
+        "group": "Saps"
+    },
+    {
+        "name": "Wild Grass",
+        "id": 5439,
+        "group": "Herbs"
+    },
+    {
+        "name": "Wise Man's Blood",
+        "id": 6355,
+        "group": "Tier 2 Blood"
+    },
+    {
+        "name": "Wolf Blood",
+        "id": 6214,
+        "group": "Blood 1"
+    },
+    {
+        "name": "Flamingo Blood",
+        "id": 6218,
+        "group": "Blood 1"
+    },
+    {
+        "name": "Rhino Blood",
+        "id": 6204,
+        "group": "Blood 1"
+    },
+    {
+        "name": "Cheetah Dragon Blood",
+        "id": 6216,
+        "group": "Blood 1"
+    },
+    {
+        "name": "Aloe",
+        "id": 7347,
+        "group": ""
+    },
+    {
+        "name": "Beer",
+        "id": 9213,
+        "group": ""
+    },
+    {
+        "name": "Kuku Bird Meat",
+        "id": 7916,
+        "group": ""
+    },
+    {
+        "name": "Flamingo Meat",
+        "id": "7917",
+        "group": ""
+    },
+    {
+        "name": "Chicken Meat",
+        "id": 7921,
+        "group": ""
+    },
+    {
+        "name": "Blue Whale Meat",
+        "id": 9726,
+        "group": ""
+    },
+    {
+        "name": "Boiled Bird Eggs",
+        "id": 9402,
+        "group": ""
+    },
+    {
+        "name": "Bracken",
+        "id": 5532,
+        "group": ""
+    },
+    {
+        "name": "Butter",
+        "id": 9063,
+        "group": ""
+    },
+    {
+        "name": "Butter-Roasted Lobster",
+        "id": 9477,
+        "group": ""
+    },
+    {
+        "name": "Cheese",
+        "id": 9062,
+        "group": ""
+    },
+    {
+        "name": "Cheese Gratin",
+        "id": 9203,
+        "group": ""
+    },
+    {
+        "name": "Cheese Pie",
+        "id": 9268,
+        "group": ""
+    },
+    {
+        "name": "Cinnamon",
+        "id": 7348,
+        "group": ""
+    },
+    {
+        "name": "Coconut",
+        "id": 7026,
+        "group": ""
+    },
+    {
+        "name": "Coconut Cocktail",
+        "id": 9307,
+        "group": ""
+    },
+    {
+        "name": "Coconut Fried Fish",
+        "id": 9309,
+        "group": ""
+    },
+    {
+        "name": "Coconut Pasta",
+        "id": 9308,
+        "group": ""
+    },
+    {
+        "name": "Cooking Honey",
+        "id": 7702,
+        "group": "Honey"
+    },
+    {
+        "name": "Wild Beehive",
+        "id": 7701,
+        "group": "Honey"
+    },
+    {
+        "name": "Wheat",
+        "id": 7001,
+        "group": "Cereals"
+    },
+    {
+        "name": "Barley",
+        "id": 7002,
+        "group": "Cereals"
+    },
+    {
+        "name": "Potato",
+        "id": 7003,
+        "group": "Cereals"
+    },
+    {
+        "name": "Sweet Potato",
+        "id": 7004,
+        "group": "Cereal"
+    },
+    {
+        "name": "Corn",
+        "id": 7005,
+        "group": "Cereals"
+    },
+    {
+        "name": "Wheat Dough",
+        "id": 7201,
+        "group": "Cereals"
+    },
+    {
+        "name": "Barley Dough",
+        "id": 7202,
+        "group": "Dough"
+    },
+    {
+        "name": "Potato Dough",
+        "id": 7203,
+        "group": "Dough"
+    },
+    {
+        "name": "Sweet Potato Dough",
+        "id": 7204,
+        "group": "Dough"
+    },
+    {
+        "name": "Corn Dough",
+        "id": 7205,
+        "group": "Dough"
+    },
+    {
+        "name": "Wheat Flour",
+        "id": 7101,
+        "group": "Flour"
+    },
+    {
+        "name": "Barley Flour",
+        "id": 7102,
+        "group": "Flour"
+    },
+    {
+        "name": "Potato Flour",
+        "id": 7103,
+        "group": "Flour"
+    },
+    {
+        "name": "Sweet Potato Flour",
+        "id": 7104,
+        "group": "Flour"
+    },
+    {
+        "name": "Corn Flour",
+        "id": 7105,
+        "group": "Flour"
+    },
+    {
+        "name": "Couscous",
+        "id": 9220,
+        "group": ""
+    },
+    {
+        "name": "Cream",
+        "id": 9061,
+        "group": ""
+    },
+    {
+        "name": "Dark Pudding",
+        "id": 9422,
+        "group": ""
+    },
+    {
+        "name": "Date Palm",
+        "id": 7016,
+        "group": ""
+    },
+    {
+        "name": "Date Palm Wine",
+        "id": 9219,
+        "group": ""
+    },
+    {
+        "name": "Deer Blood",
+        "id": 6201,
+        "group": "Blood 2"
+    },
+    {
+        "name": "Sheep Blood",
+        "id": 6202,
+        "group": "Blood 2"
+    },
+    {
+        "name": "Pig Blood",
+        "id": 6205,
+        "group": "Blood 2"
+    },
+    {
+        "name": "Waragon Blood",
+        "id": 6215,
+        "group": "Blood 2"
+    },
+    {
+        "name": "Ox Blood",
+        "id": 6206,
+        "group": "Blood 2"
+    },
+    {
+        "name": "Dressing",
+        "id": 9006,
+        "group": ""
+    },
+    {
+        "name": "Dried Pearl Oyster Flesh",
+        "id": 6520,
+        "group": "Seafood 2"
+    },
+    {
+        "name": "Tridana Giant Clam Shellfish",
+        "id": 6535,
+        "group": "Seafood 2"
+    },
+    {
+        "name": "Egg",
+        "id": 9064,
+        "group": ""
+    },
+    {
+        "name": "Essence of Liquor",
+        "id": 9057,
+        "group": ""
+    },
+    {
+        "name": "Exotic Herbal Wine",
+        "id": 9262,
+        "group": ""
+    },
+    {
+        "name": "Fig",
+        "id": 7018,
+        "group": ""
+    },
+    {
+        "name": "Fig Pie",
+        "id": 9216,
+        "group": ""
+    },
+    {
+        "name": "Fish Fillet Salad",
+        "id": 9423,
+        "group": ""
+    },
+    {
+        "name": "Fortune Teller Mushroom",
+        "id": 5407,
+        "group": ""
+    },
+    {
+        "name": "Fragrant Jerky",
+        "id": 7918,
+        "group": ""
+    },
+    {
+        "name": "Freekeh",
+        "id": 7021,
+        "group": ""
+    },
+    {
+        "name": "Freekeh Snake Stew",
+        "id": 9215,
+        "group": ""
+    },
+    {
+        "name": "Fried Bird",
+        "id": 9403,
+        "group": ""
+    },
+    {
+        "name": "Strawberry",
+        "id": 7304,
+        "group": "Fruits"
+    },
+    {
+        "name": "Grape",
+        "id": 7307,
+        "group": "Fruits"
+    },
+    {
+        "name": "Apple",
+        "id": 7313,
+        "group": "Fruits"
+    },
+    {
+        "name": "Cherry",
+        "id": 7314,
+        "group": "Fruits"
+    },
+    {
+        "name": "Pear",
+        "id": 7315,
+        "group": "Fruits"
+    },
+    {
+        "name": "Banana",
+        "id": 7316,
+        "group": "Fruits"
+    },
+    {
+        "name": "Pineapple",
+        "id": 7317,
+        "group": "Fruits"
+    },
+    {
+        "name": "Fruit and Vegetable Salad",
+        "id": 9258,
+        "group": ""
+    },
+    {
+        "name": "Fruit Wine",
+        "id": 9201,
+        "group": ""
+    },
+    {
+        "name": "Fugitive Khalk's Horn",
+        "id": 9735,
+        "group": ""
+    },
+    {
+        "name": "Full-Bodied Exotic Herbal Wine",
+        "id": 9279,
+        "group": ""
+    },
+    {
+        "name": "Garlic",
+        "id": 7302,
+        "group": ""
+    },
+    {
+        "name": "Ghormeh Sabzi",
+        "id": 9486,
+        "group": ""
+    },
+    {
+        "name": "Grilled Sausage",
+        "id": 9427,
+        "group": ""
+    },
+    {
+        "name": "Grilled Scorpion",
+        "id": 9461,
+        "group": ""
+    },
+    {
+        "name": "Ground Bird Meat",
+        "id": 7958,
+        "group": ""
+    },
+    {
+        "name": "Ham Sandwich",
+        "id": 9267,
+        "group": ""
+    },
+    {
+        "name": "High-Quality Carrot",
+        "id": 54004,
+        "group": ""
+    },
+    {
+        "name": "Honey Wine",
+        "id": 9206,
+        "group": ""
+    },
+    {
+        "name": "Honeycomb Cookie",
+        "id": 9266,
+        "group": ""
+    },
+    {
+        "name": "Hot Pepper",
+        "id": 7305,
+        "group": ""
+    },
+    {
+        "name": "King of Jungle Hamburg",
+        "id": 9463,
+        "group": ""
+    },
+    {
+        "name": "Lean Meat Salad",
+        "id": 9425,
+        "group": ""
+    },
+    {
+        "name": "Lion Meat",
+        "id": 7923,
+        "group": ""
+    },
+    {
+        "name": "Lizard Meat",
+        "id": 7908,
+        "group": "Reptile Meat"
+    },
+    {
+        "name": "Worm Meat",
+        "id": 7909,
+        "group": "Reptile Meat"
+    },
+    {
+        "name": "Waragon Meat",
+        "id": 7914,
+        "group": "Reptile Meat"
+    },
+    {
+        "name": "Cheetah Dragon Meat",
+        "id": 79151,
+        "group": "Reptile Meat"
+    },
+    {
+        "name": "Llama Meat",
+        "id": 7956,
+        "group": ""
+    },
+    {
+        "name": "Lobster",
+        "id": 6511,
+        "group": ""
+    },
+    {
+        "name": "Lump of Raw Sugar",
+        "id": 54003,
+        "group": ""
+    },
+    {
+        "name": "Marmot Meat",
+        "id": 7955,
+        "group": ""
+    },
+    {
+        "name": "Deer Meat",
+        "id": 7901,
+        "group": "Meat 1"
+    },
+    {
+        "name": "Fox Meat",
+        "id": 7903,
+        "group": "Meat 1"
+    },
+    {
+        "name": "Rhino Meat",
+        "id": 7904,
+        "group": "Meat 1"
+    },
+    {
+        "name": "Pork",
+        "id": 7905,
+        "group": "Meat 1"
+    },
+    {
+        "name": "Beef",
+        "id": 7906,
+        "group": "Meat 1"
+    },
+    {
+        "name": "Raccoon Meat",
+        "id": 7910,
+        "group": "Meat 1"
+    },
+    {
+        "name": "Weasel Meat",
+        "id": 7911,
+        "group": "Meat 1"
+    },
+    {
+        "name": "Bear Meat",
+        "id": 7912,
+        "group": "Meat 1"
+    },
+    {
+        "name": "Wolf Meat",
+        "id": 7913,
+        "group": "Meat 1"
+    },
+    {
+        "name": "Meat Croquette",
+        "id": 9404,
+        "group": ""
+    },
+    {
+        "name": "Meat Pasta",
+        "id": 9416,
+        "group": ""
+    },
+    {
+        "name": "Meat Pie",
+        "id": 9265,
+        "group": ""
+    },
+    {
+        "name": "Meat Stew",
+        "id": 9414,
+        "group": ""
+    },
+    {
+        "name": "Mediah Meal",
+        "id": 9607,
+        "group": ""
+    },
+    {
+        "name": "Milk",
+        "id": 9065,
+        "group": ""
+    },
+    {
+        "name": "Milk Tea",
+        "id": 9263,
+        "group": ""
+    },
+    {
+        "name": "Nutmeg",
+        "id": 7020,
+        "group": ""
+    },
+    {
+        "name": "Oatmeal",
+        "id": 9261,
+        "group": ""
+    },
+    {
+        "name": "Onion",
+        "id": 7303,
+        "group": ""
+    },
+    {
+        "name": "Oyster",
+        "id": 6515,
+        "group": ""
+    },
+    {
+        "name": "Pan-Fried Oyster",
+        "id": 9475,
+        "group": ""
+    },
+    {
+        "name": "Pepper",
+        "id": 7301,
+        "group": ""
+    },
+    {
+        "name": "Pickled Vegetables",
+        "id": 9202,
+        "group": ""
+    },
+    {
+        "name": "Pistachio",
+        "id": 7017,
+        "group": ""
+    },
+    {
+        "name": "Prawn Salad",
+        "id": 9471,
+        "group": ""
+    },
+    {
+        "name": "Purified Water",
+        "id": 6656,
+        "group": ""
+    },
+    {
+        "name": "Rainbow Button Mushroom",
+        "id": 5515,
+        "group": ""
+    },
+    {
+        "name": "Rainbow Button Mushroom Cheese Melt",
+        "id": 9483,
+        "group": ""
+    },
+    {
+        "name": "Rainbow Button Mushroom Sandwich",
+        "id": 9316,
+        "group": ""
+    },
+    {
+        "name": "Red Sauce",
+        "id": 9004,
+        "group": ""
+    },
+    {
+        "name": "Roast Marmot",
+        "id": 9488,
+        "group": ""
+    },
+    {
+        "name": "Sunflower",
+        "id": 7308,
+        "group": "Plants"
+    },
+    {
+        "name": "Rose",
+        "id": 7319,
+        "group": "Plants"
+    },
+    {
+        "name": "Tulip",
+        "id": 7320,
+        "group": "Plants"
+    },
+    {
+        "name": "Scorpion Meat",
+        "id": 7924,
+        "group": ""
+    },
+    {
+        "name": "Serendia Meal",
+        "id": 9603,
+        "group": ""
+    },
+    {
+        "name": "Shrimp",
+        "id": 6516,
+        "group": ""
+    },
+    {
+        "name": "Skewered Llama Cheese Melt",
+        "id": 9490,
+        "group": ""
+    },
+    {
+        "name": "Smoked Fish Steak",
+        "id": 9417,
+        "group": ""
+    },
+    {
+        "name": "Snake Meat",
+        "id": 7922,
+        "group": ""
+    },
+    {
+        "name": "Soft Bread",
+        "id": 9260,
+        "group": ""
+    },
+    {
+        "name": "Soft Whale Meat",
+        "id": 9731,
+        "group": ""
+    },
+    {
+        "name": "Crocodile Meat",
+        "id": 9732,
+        "group": ""
+    },
+    {
+        "name": "Special Carrot",
+        "id": 54005,
+        "group": ""
+    },
+    {
+        "name": "Special Drieghanese",
+        "id": 9637,
+        "group": ""
+    },
+    {
+        "name": "Cuttlefish",
+        "id": 8334,
+        "group": "Seafood"
+    },
+    {
+        "name": "Squid",
+        "id": 8211,
+        "group": "Seafood"
+    },
+    {
+        "name": "Terrapin",
+        "id": 8244,
+        "group": "Seafood"
+    },
+    {
+        "name": "Jellyfish",
+        "id": 8214,
+        "group": "Seafood"
+    },
+    {
+        "name": "Crawfish",
+        "id": 8246,
+        "group": "Seafood"
+    },
+    {
+        "name": "Crab",
+        "id": 8213,
+        "group": "Seafood"
+    },
+    {
+        "name": "Octopus",
+        "id": 8212,
+        "group": "Seafood"
+    },
+    {
+        "name": "Starfish",
+        "id": 8233,
+        "group": "Seafood"
+    },
+    {
+        "name": "Shellfish",
+        "id": 8215,
+        "group": "Seafood"
+    },
+    {
+        "name": "Seahorse",
+        "id": 8232,
+        "group": "Seafood"
+    },
+    {
+        "name": "Star Anise",
+        "id": 7019,
+        "group": ""
+    },
+    {
+        "name": "Steak",
+        "id": 9401,
+        "group": ""
+    },
+    {
+        "name": "Steamed Prawn",
+        "id": 9473,
+        "group": ""
+    },
+    {
+        "name": "Stir-Fried Bracken",
+        "id": 9318,
+        "group": ""
+    },
+    {
+        "name": "Stir-Fried Vegetables",
+        "id": 9241,
+        "group": ""
+    },
+    {
+        "name": "Tea with Fine Scent",
+        "id": 9270,
+        "group": ""
+    },
+    {
+        "name": "Teff",
+        "id": 7022,
+        "group": ""
+    },
+    {
+        "name": "Teff Bread",
+        "id": 9214,
+        "group": ""
+    },
+    {
+        "name": "Teff Flour",
+        "id": 7106,
+        "group": ""
+    },
+    {
+        "name": "Teff Flour Dough",
+        "id": 7206,
+        "group": ""
+    },
+    {
+        "name": "Teff Sandwich",
+        "id": 9218,
+        "group": ""
+    },
+    {
+        "name": "Top-Quality Cooking Honey",
+        "id": 7704,
+        "group": ""
+    },
+    {
+        "name": "Vinegar",
+        "id": 9066,
+        "group": ""
+    },
+    {
+        "name": "Wheat",
+        "id": 7001,
+        "group": ""
+    },
+    {
+        "name": "White Sauce",
+        "id": 9003,
+        "group": ""
+    },
+    {
+        "name": "Borscht",
+        "id": 9408,
+        "group": ""
+    },
+    {
+        "name": "Fragrant Borcht",
+        "id": 9452,
+        "group": ""
+    }
+]

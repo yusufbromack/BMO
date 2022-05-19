@@ -1,0 +1,29 @@
+[
+    {
+      "model": "bdomarket.Item",
+      "pk": 1,
+      "fields": {
+        "name": "Amanitia Mushroom",
+        "itemId": 5419,
+        "group": "Mushrooms"
+      }
+    },
+    {
+      "model": "bdomarket.Item",
+      "pk": 2,
+      "fields": {
+        "name": "Ancient Mushroom",
+        "itemId": 5418,
+        "group": "Mushrooms"
+      }
+    },
+    {
+      "model": "bdomarket.Item",
+      "pk": 3,
+      "fields": {
+        "name": "Arrow Mushroom",
+        "itemId": 5408,
+        "group": "Mushrooms"
+      }
+    }
+]

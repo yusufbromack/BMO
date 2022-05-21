@@ -138,3 +138,5 @@ bdoapi/__init__.py
 bdomarket/__pycache__/
 bdomarket/migrations/
 bdomarket/__init__.py
+data/get-items.mjs
+data/node_modules/

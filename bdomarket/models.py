@@ -1,11 +1,15 @@
+from re import T
 from django.db import models
 from django.utils.translation import gettext as _
 
 # Create your models here.
 
-class Item(models.Model):
+class Item(models.Model):    
     itemId = models.PositiveIntegerField(null=True)
     name = models.CharField(max_length=100)
+    categoryPri = models.PositiveSmallIntegerField(null=True)
+    categorySec = models.PositiveSmallIntegerField(null=True)
+    grade = models.PositiveSmallIntegerField(null=True)
     group = models.CharField(max_length=100)
 
     def __str__(self):
@@ -54,5 +58,3 @@ class Item(models.Model):
 
 #     def __str__(self):
 #         return self.category
-
-# class SubCategory(models.IntegerChoices):

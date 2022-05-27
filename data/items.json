@@ -6271,6 +6271,13 @@
 		"categoryPri": 25,
 		"categorySec": 4
 	},
+	"6031": {
+		"itemId": 6031,
+		"name": "Griffon Leather",
+		"grade": 0,
+		"categoryPri": 25,
+		"categorySec": 4
+	},
 	"6151": {
 		"itemId": 6151,
 		"name": "Soft Hide",
@@ -33936,11 +33943,8 @@
 		"categorySec": 5
 	},
 	"45868": {
-		"id": 45868,
-		"locale_default": "us",
-		"locale_name": {
-			"us": "Signature Classic Box"
-		},
+		"itemId": 45868,
+		"name": "Signature Classic Box",
 		"grade": 4,
 		"categoryPri": 55,
 		"categorySec": 5
@@ -45874,11 +45878,8 @@
 		"categorySec": 2
 	},
 	"601251": {
-		"id": 601251,
-		"locale_default": "us",
-		"locale_name": {
-			"us": "Value Pack (30 Days)"
-		},
+		"itemId": 601251,
+		"name": "Value Pack (30 Days)",
 		"grade": 3,
 		"categoryPri": 55,
 		"categorySec": 6

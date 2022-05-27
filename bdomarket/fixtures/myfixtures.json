@@ -1,0 +1,24 @@
+[
+    {
+        "model": "bdomarket.item",
+        "pk": 206,
+        "fields": {
+            "itemId": 206,
+            "name": "Flashbang",
+            "grade": 0,
+            "categoryPri": 35,
+            "categorySec": 6
+        }        
+	},
+    {
+        "model": "bdomarket.item",
+        "pk": 207,
+        "fields": {
+            "itemId": 207,
+            "name": "Fire Shot",
+            "grade": 0,
+            "categoryPri": 35,
+            "categorySec": 6
+        }
+    }
+]

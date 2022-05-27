@@ -4,3 +4,5 @@ from .models import Item
 class ItemResource(resources.ModelResource):
     class Meta:
         model = Item
+        # import_id_fields = ('itemId',)
+        # fields = ([itemId]["itemId"],)

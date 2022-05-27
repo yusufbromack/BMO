@@ -5,6 +5,7 @@ from django.http import HttpResponse, HttpResponseNotFound
 import datetime
 from .models import Item
 from .serializers import ItemSerializer
+from tablib import Dataset
 
 # Create your views here.
 
@@ -31,3 +32,17 @@ def item_test_view(request):
         return HttpResponse("<html><body>%s</body></html>" % result.text)
         # return HttpResponse('Successful')
     return HttpResponse('Something Went Wrong')
+
+def simple_upload(request):
+    if request.method == 'POST':
+        item_resource = ItemResource()
+        dataset = Dataset()
+        new_items = request.FILES['myfile']
+
+        imported_data = dataset.load(new_items.read())
+        result = item_resource.import_data(dataset, dry_run=True)  # Test the data import
+
+        if not result.has_errors():
+            item_resource.import_data(dataset, dry_run=False)  # Actually import now
+
+    return render(request, 'import.html')

@@ -8,7 +8,7 @@ router.register(r"bdomarket", ItemViewSet)
 
 urlpatterns = [
     path("api/", include(router.urls)),
-    path("time/", date_time),
+    path("time/", date_time),    
     path("item/", item_test_view),
-    
+    path("import/", simple_upload),    
 ]

@@ -1,11 +1,14 @@
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 
-from .views import ItemViewSet
+from .views import *
 
 router = DefaultRouter()
 router.register(r"bdomarket", ItemViewSet)
 
 urlpatterns = [
-    path("", include(router.urls))
+    path("api/", include(router.urls)),
+    path("time/", date_time),
+    path("item/", item_test_view),
+    
 ]
